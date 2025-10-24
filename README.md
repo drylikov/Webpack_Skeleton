@@ -53,6 +53,8 @@ you must set `NODE_ENV`. The default environment is `development`.
 | prettier       | Handle application files with Prettier.         |
 | prettier:write | Write handling of Prettier in your source.      |
 
+
+
 ## Project structure
 
 | Path              | Description                            |
