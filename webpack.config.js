@@ -6,6 +6,8 @@ const webpack = require('webpack')
 const webpackMerge = require('webpack-merge')
 const webpackVariables = require('./config/misc/webpackVariables')
 
+
+
 /**
  * Generate webpack configuration for current envrionment
  *
