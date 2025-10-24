@@ -57,6 +57,8 @@ you must set `NODE_ENV`. The default environment is `development`.
 
 ## Project structure
 
+
+
 | Path              | Description                            |
 | ----------------- | -------------------------------------- |
 | /app              | Your application                       |
