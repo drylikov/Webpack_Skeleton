@@ -7,6 +7,8 @@
 
 ## Initialization
 
+
+
 It's common webpack project.
 
 > yarn install
