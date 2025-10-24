@@ -17,6 +17,8 @@ module.exports = function() {
   // Set project envrionment
   const env = process.env.NODE_ENV || 'development'
 
+
+  
   // Merge webpack config
   if (fs.existsSync(`./config/webpack/${env}.js`) == false) {
     throw `You should create webpack configuration for ${env}`
